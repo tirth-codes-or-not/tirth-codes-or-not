@@ -3,13 +3,11 @@
 
 <p align="center"> <img alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" /> </p>
 
-- 🔭 I’m currently working on enhancing this [project](https://github.com/harshbhandari7/scrapped-mf-details).
-
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 🤝 I’m looking for help with **Data Structures**
 
-- 📫 Reach out to me [here](mailto:harshbhandari32@gmail.com).
+- 📫 Reach out to me [here](tirth.t@ahduni.edu.in).
 
 - ⚡ Other things about me **I like watching ANIME and movies, gaming sometimes cooking.**
 
