@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Tirth</h1>
+<h4 align="center">I am a student of Ahmedabad University pursuing Bachelor of Technology in Computer Science and Engineering. Learning BASIC STUFF .</h4>
 
-<!--
-**tirth-codes-or-not/tirth-codes-or-not** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on enhancing this [project](https://github.com/harshbhandari7/scrapped-mf-details).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Data Structures and Algorithms**
+
+- 🤝 I’m looking for help with **Data Structures**
+
+- 📫 Reach out to me [here](mailto:harshbhandari32@gmail.com).
+
+- ⚡ Other things about me **I like watching ANIME and movies, gaming sometimes cooking.**
+
+<h3 align="left"></h3>
+<p align="left">
+
